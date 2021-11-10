@@ -1,10 +1,10 @@
-<p align="center">
-    <h1> Form Validations </h1>
-    <h2>A study project to test form validations</h2>
-    <img src="https://freeimage.host/i/5MHwD7" alt="screenshot"/>
-    <img src="https://freeimage.host/i/5MHOx9"alt="error-states"/>
-    <button name="button" onclick="http://www.google.com">Live preview</button>
-</p>
+# Form Validations
+## A study project to test form validations
+
+[![5MHwD7.md.jpg](https://iili.io/5MHwD7.md.jpg)](https://freeimage.host/i/5MHwD7)
+[![5MHOx9.md.jpg](https://iili.io/5MHOx9.md.jpg)](https://freeimage.host/i/5MHOx9)
+
+- [Live preview here](https://duckduckgo.com/)
 
 ## :rocket: Technologies uses in this project
 
