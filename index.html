@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Form Validation</title>
+    <!-- Link to style sheet -->
+    <link rel="stylesheet" href="main/style.css" />
+    <!-- Link to my fontawesome kit -->
+    <script
+      src="https://kit.fontawesome.com/287bcbf3a3.js"
+      crossorigin="anonymous"
+    ></script>
+    <!-- Link to google font -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;800&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <h2>Create an account</h2>
+    <div class="container">
+      <div class="form" id="form">
+        <div class="form-control">
+          <label>Username</label>
+          <input type="text" placeholder="Noah" id="username" />
+          <i class="fas fa-check-circle"></i>
+          <i class="fas fa-exclamation-circle"></i>
+          <small></small>
+        </div>
+        <div class="form-control">
+          <label>E-mail</label>
+          <input type="email" placeholder="noah@gmail.com" id="email" />
+          <i class="fas fa-check-circle"></i>
+          <i class="fas fa-exclamation-circle"></i>
+          <small></small>
+        </div>
+        <div class="form-control">
+          <label>Password</label>
+          <input type="password" placeholder="Password" id="password" />
+          <i class="fas fa-check-circle"></i>
+          <i class="fas fa-exclamation-circle"></i>
+          <small></small>
+        </div>
+        <div class="form-control">
+          <label>Password check</label>
+          <input
+            type="password"
+            placeholder="Repeat your password"
+            id="password2"
+          />
+          <i class="fas fa-check-circle"></i>
+          <i class="fas fa-exclamation-circle"></i>
+          <small></small>
+        </div>
+        <button>
+          <span>Submit</span>
+          <i class="fa-solid fa-circle-chevron-right"></i>
+        </button>
+      </div>
+      <div class="bg_container_shapes">
+        <span class="bg_container_shape_1"></span>
+        <span class="bg_container_shape_2"></span>
+        <span class="bg_container_shape_3"></span>
+        <span class="bg_container_shape_4"></span>
+      </div>
+    </div>
+
+    <script src="/script.js"></script>
+  </body>
+</html>
