@@ -1,10 +1,12 @@
 # Form Validations
 ## A study project to test form validations
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/530148b4-d394-4274-b308-ea5c22a100c5/deploy-status)](https://app.netlify.com/sites/form-validation35/deploys)
+
 [![5MHwD7.md.jpg](https://iili.io/5MHwD7.md.jpg)](https://freeimage.host/i/5MHwD7)
 [![5MHOx9.md.jpg](https://iili.io/5MHOx9.md.jpg)](https://freeimage.host/i/5MHOx9)
 
-- [Live preview here](https://duckduckgo.com/)
+- [Live preview here](https://form-validation35.netlify.app/)
 
 ## :rocket: Technologies uses in this project
 
